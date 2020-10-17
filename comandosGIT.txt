@@ -13,3 +13,5 @@ git reset --hard nº instantanea --> Comando para regresar a una instantanea ant
 git commit --amend --> Comando que abre el editor VIM
 	:i Para editar
 	:wq Para guardar las modificaciones.
+git remote add origin https://github.com/deobarro/inicioGIT.git --> Enviar por primera vez un repositorio 
+git push -u origin main --> Enviar modificaciones
