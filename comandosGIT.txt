@@ -15,4 +15,5 @@ git commit --amend --> Comando que abre el editor VIM
 	:wq Para guardar las modificaciones.
 git remote add origin https://github.com/deobarro/inicioGIT.git --> Enviar por primera vez un repositorio 
 git push -u origin main --> Enviar modificaciones
-git pull --> comando para actualizar desde el repositorio de github a local 
+git pull --> comando para actualizar desde el repositorio de github a local
+git tag nombreEtiqueta -m "Mensaje a publicar" --> Commando creación tags 
