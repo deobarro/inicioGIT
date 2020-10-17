@@ -1,0 +1,12 @@
+git ini --> Al comenzar el proyecto o cuando queramos que empiece a hacer un seguimiento.
+git add --> Es el comando para decirle a git que comienze un seguimiento.
+	git add index.html --> Hace seguimiento al archivo index.html.
+	git add . --> Comando que agrega todos los archivos que haya en el proyecto.
+git commit -m "Mensaje a publicar" --> comando con el que la snapshot pasa al repositorio local.
+git commit -am "Mensaje a publicar" --> comando para añadir y hacer respaldo a un archivo
+git status -s --> permite ver como se encuentran todos los archivos de un directorio de trabajo
+?? --> Indica que el archivo o directorio esta sometido a seguimiento.
+A --> Indica que el archivo ha sido agregado.
+M --> Archivo agregado que se ha modificado.
+git log --oneline --> Comando que nos facilita un listado de copias y su descripción.
+git reset --hard nº instantanea --> Comando para regresar a una instantanea anterior.
