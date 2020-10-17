@@ -12,4 +12,4 @@ git log --oneline --> Comando que nos facilita un listado de copias y su descrip
 git reset --hard nº instantanea --> Comando para regresar a una instantanea anterior.
 git commit --amend --> Comando que abre el editor VIM
 	:i Para editar
-	:wq Para guardar las modificaciones
+	:wq Para guardar las modificaciones.
