@@ -20,3 +20,4 @@ git branch nombreRama--> Comando para crear una rama nueva
 git branch --> Comando para conocer las ramas existentes del proyecto y en cual estamos
 git checkout nombreRama --> Comando para pasar de una rama o branch a otra.
 git merge NombreRamaAFusionar --> comando para fusionar una rama con la principal o master (Hacerlo desde Master o Main).
+git branch -d o -D NombreRamaABorrar --> Comando borra una rama.
